@@ -11,3 +11,4 @@ You must follow any policies and terms made available to you by Preview \n'
 in order to use Preview software. please only use our 
 software legally and lawfully.
 you will be personally liable if you don't use our software lawfully .
+
